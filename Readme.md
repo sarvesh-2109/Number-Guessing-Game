@@ -6,6 +6,10 @@ This Flask web application allows users to play a number guessing game. The user
 ## Output
 
 
+https://github.com/sarvesh-2109/Number-Guessing-Game/assets/113255836/2cfe3076-4648-4ddd-b9fc-bed26fedc14d
+
+
+
 ## How to Play
 
 1. Navigate to the home page ("/").
